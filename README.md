@@ -19,22 +19,22 @@ A lot of what I learn comes from building something first and figuring out the r
 
 
 <p align="" >
+  <img src="https://skillicons.dev/icons?i=react&theme=light" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="55" height="55" />
   <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="55" height="55" />
   <img src="https://skillicons.dev/icons?i=typescript&theme=light" width="55" height="55" />
   <img src="https://skillicons.dev/icons?i=html&theme=light" width="55" height="55" />
   <img src="https://skillicons.dev/icons?i=css&theme=light" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=react&theme=light" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="55" height="55" />
   <img src="https://skillicons.dev/icons?i=vite&theme=light" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="55" height="55" />
   <img src="https://skillicons.dev/icons?i=redux&theme=light" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="55" height="55" />
   <img src="https://skillicons.dev/icons?i=express&theme=light" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" width="55" height="55" />
   <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="55" height="55" />
   <img src="https://skillicons.dev/icons?i=prisma&theme=light" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=git&theme=light" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=github&theme=light" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=jest&theme=light" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=light" width="55" height="55" />
   <img src="https://skillicons.dev/icons?i=vercel&theme=light" width="55" height="55" />
   <img src="https://skillicons.dev/icons?i=figma&theme=light" width="55" height="55" />
   <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="55" height="55" />
